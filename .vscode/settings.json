@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./Programs"
+
+       
+        {
+            "python.defaultInterpreterPath": " ‪D:/python/pyver/py396/python.exe"
+          }
+    ]
+}
